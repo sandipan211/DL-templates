@@ -1,2 +1,2 @@
 # DL-templates
-Contains template codes of various deep learning models on PyTorch
+Contains template codes of various deep learning models
