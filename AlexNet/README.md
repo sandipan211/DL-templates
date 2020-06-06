@@ -1,4 +1,4 @@
-# Sample code of AlexNet implemented on Tensorflow 1, along with my review on AlexNet
+# AlexNet from scratch - implemented on Tensorflow 1, along with my review on AlexNet
 
 ## Instructions for use
 - Download the files: alexNet.ipynb, alexNet.py and cifar10_utils.py into the same directory in your system.
