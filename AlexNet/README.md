@@ -5,7 +5,8 @@
 - Run the file alexNet.ipynb on your Jupyter Notebook or on Google Colab or in any other similar platform.
 - The appropriate directories will be auto-created when the code runs.
 - Has provisions to start training from the last checkpoint.
-- Testing can be done on the entire test dataset, or on randomly selected k images, or simply a quick prediction on a single image. 
+- Testing can be done on the entire test dataset, or on randomly selected k images, or simply a quick prediction on a single image. A sample prediction is shown below:
+![cifar10_pred](https://github.com/[sandipan211]/[DL-templates]/blob/[master]/test_pred.png?raw=true)
 
 ## Requirements:
 - Tensorflow
