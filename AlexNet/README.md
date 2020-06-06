@@ -21,12 +21,12 @@ About 1 hour 33 minutes on Google Colab
 ### 1. alexNet.py
 - Contains the primary model architecture along with training and testing facilities
 - **Model utilities**:
- - Dataset used: CIFAR10 (although the code can be made extensible to work for other datasets as well)
- - Epochs: 15 (maybe less if early stopping occurs)
- - Batch size: 64
- - Learning rate: 0.00005
- - Validation data percentage: 10% of the training dataset
- - Input image dimensions: 227x227x3
+   - Dataset used: CIFAR10 (although the code can be made extensible to work for other datasets as well)
+   - Epochs: 15 (maybe less if early stopping occurs)
+   - Batch size: 64
+   - Learning rate: 0.00005
+   - Validation data percentage: 10% of the training dataset
+   - Input image dimensions: 227x227x3
 - For more details on the implemented architecture, go through the architecture() method in alexNet.py, and you can also read my study on AlexNet.
 
 ### 2. cifar10_utils.py
