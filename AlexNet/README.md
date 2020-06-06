@@ -30,9 +30,9 @@ About 1 hour 33 minutes on Google Colab
 - For more details on the implemented architecture, go through the architecture() method in alexNet.py, and you can also read my study on AlexNet.
 
 ### 2. cifar10_utils.py
-**Step 1.** Downloads the data (if it does not exist already), displaying a tqdm progress bar. If extracted dataset is not present in the directory, then extracts it into the 'cifar-10-batches-py' folder.
+- Downloads the data (if it does not exist already), displaying a tqdm progress bar. If extracted dataset is not present in the directory, then extracts it into the 'cifar-10-batches-py' folder.
 
-**Step 2.** Preprocesses the training, validation and testing sets and stores them into pickle files.
+- Preprocesses the training, validation and testing sets and stores them into pickle files.
 
-**Step 3.** Has utility functions to resize data into batches of 227x227x3 and returns them to calling functions.
+- Has utility functions to resize data into batches of 227x227x3 and returns them to calling functions.
 
