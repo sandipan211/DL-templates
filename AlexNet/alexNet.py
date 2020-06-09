@@ -199,7 +199,7 @@ class AlexNet:
 
         if not only_k:
 
-          # have to print test accuracy of entire training set as well as do random k predictions and show
+          # have to print test accuracy of entire test set as well as do random k predictions and show
           batch_test_accuracy = 0
           image_batch_size = param_list['batch_size']
           batch_passes = 0
